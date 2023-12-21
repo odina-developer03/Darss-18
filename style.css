@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    width: 100%;
+  }
+  .DIV {
+    width: 100%;
+    height: 70px;
+    position: sticky;
+  }
+  .div {
+    height:550px;
+    background-color: #EDF1F3;
+  }
+  .div2 {
+    background-image: url(images/clock2-removebg-preview.png);
+    background-repeat: no-repeat;
+    object-fit: cover;
+  }
+  .text {
+    font-size: 70px;
+    width: 300px;
+    padding-left: 80px;
+    line-height: 80px;
+    font-weight: 200;
+    letter-spacing: 4px;
+    
+  }
+  .button {
+    margin-left: 130px;
+    width: 200px;
+    height: 50px;
+  }
+  .div3 {
+    width: 90%;
+    margin: 100px auto;
+    
+  }
+  .div4 {
+    gap: 15px;
+  }
+  .text1 {
+    font-weight: 300;
+  }
+  .text2 {
+    margin-left: 40px;
+    font-weight: 100;
+  }
+  .div5 {
+    margin: 40px auto;
+    width: 85%; 
+  }
+  .div6 {
+    width: 90%;
+    gap: 5px;
+    flex-wrap: nowrap;
+    margin: 20px auto;
+  }
+  .div7 {
+    width: 90%;
+    margin: 10px auto;
+  }
+  .div8 {
+    width: 90%;
+    margin: 10px auto;
+    margin-top: 200px;
+  }
